@@ -1,0 +1,15 @@
+{ 
+  "name": "CoToken",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bignumber.js": "^9.0.0",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "ethjs-abi": "^0.2.1",
+    "lodash": "^4.17.10",
+    "truffle-hdwallet-provider": "^1.0.14",
+    "openzeppelin-solidity": "^2.3.0",
+    "web3": "^1.0.0-beta.33"  }
+}
